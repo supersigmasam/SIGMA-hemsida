@@ -1,0 +1,214 @@
+#indexb{
+    background-color: rgb(18, 1, 50);
+}
+    .container{
+    position: relative;
+    text-align: center;
+    }
+    
+    
+    
+    h1{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;}
+
+    #mainH1{
+        color: aquamarine;  
+        font-family:Verdana, Geneva, Tahoma, sans-serif;
+    }
+    
+    .textochbild {
+        position: relative;
+        text-align: center;
+    }
+    
+    
+    
+    #rubrik{
+    position: absolute;
+    width:50%;
+    margin-left: 3%;
+    top: 60%;
+    left: 17%;
+    color: aquamarine;
+    }
+    
+    
+    #underrubrik{
+    background-color: aquamarine; 
+    width: 32%;
+    margin-left: 7%;
+    top: 71%;
+    left: 22%;
+    position: absolute;
+    text-align: center;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#conceptb{
+    background-color: rgb(219, 219, 219);
+    margin-top: 10%;
+}
+
+#sidabild{ position: relative;
+float: right;
+width: 250px;
+}
+
+#concept{
+    background-color: rgb(255, 255, 255);
+    align-items: center;
+    width: 1000px;
+    height: 550px;
+    left:auto;
+    right:auto;
+    margin-top: 150px;
+}
+
+.h2concept{
+margin-top: 10px;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+position: relative;
+margin-left: 10px;
+margin-right: auto;
+}
+.conceptp2{ position: relative;
+    float: right;
+margin-left: 10px;
+left: -5%;
+top:14%;
+width:700px;
+}
+.conceptp3{ position: relative;
+    float: right;
+left: -7%;
+width: 900px;
+}
+
+.conceptp1{ position: relative;
+    float: left;
+margin-left: 10px;
+}
+
+
+
+#bildc{float: left;
+position: relative;
+margin-right: 10px;
+margin-left: 10px;
+}    
+
+
+
+
+
+
+#tutorialb{
+    background-color: black;
+    transition: background-color 0.5s ease;
+    min-height:200vh;
+}
+
+#textT{
+    margin-top: 250px;
+    width: 50%;
+    background-color: rgba(158, 158, 158, 0.406);
+    height: 470px;
+    
+}
+
+.tutp{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.knappar{ 
+    margin-left:50px;
+    background-color: aqua;
+    border-style:ridge;
+    border-radius: 10px;
+    text-align: center;
+    border-color: rgb(1, 215, 215);
+    position: absolute;
+    top:5%;
+}
+
+#heminsp{
+    left:-2%
+}
+
+#insph1{color: azure;
+margin-top:10%;}
+
+
+#inspb{
+    background-color: rgb(5, 5, 34);
+}
+
+.inspo{
+width:500px;
+height:300px;
+background-color: rgba(17, 86, 150, 0.443);
+top:50px;
+position: relative;
+border-width: 5px;
+border-style: solid;
+margin-top: 100px;
+left:-15%
+
+
+}
+
+#andrewtate{
+    float:left;
+}
+
+#batman{
+    float:left
+}
+
+
+.h2insp{
+    color: aliceblue;
+
+}
+
+.pinsp{
+    color: aliceblue;
+    left:  10px;
+    margin:3%;
+}
+
+.design{
+    width: 7px;
+    height:740px;
+background-color: aquamarine;
+position: absolute;
+right:20%;
+top:55%;
+}
+
+.design2{
+    width: 7px;
+    height:740px;
+background-color: rgb(0, 149, 255);
+position: absolute;
+right:15%;
+top:55%;
+
+}
